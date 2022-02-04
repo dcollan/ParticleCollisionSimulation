@@ -1,4 +1,4 @@
-# particle-collision-simulation
+# Particle Collision
 A physics simulation of elastic collisions between particles of varying masses.
 
 ## Try it out
